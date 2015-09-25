@@ -1,0 +1,770 @@
+fileFormatVersion: 2
+guid: a6c5947cf9c6ca74e810a2afe3bb8b86
+timeCreated: 1440846945
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000e4000000e5000000e6000000e7000000e8000000e9000000ea000000eb000000ec000000ed000000ee000000ef000000f0000000f1000000f2000000f3000000f4000000f5000000f6000000f7000000f8000000f9000000fa000000fb000000fc000000fd000000fe000000
+  assetHash:
+    serializedVersion: 2
+    Hash: aaaf17057a8727a20f374eb82a3dce2f
+  longitude: -99.150000000000006
+  latitude: 19.399999999999999
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 13.4112034, y: 4.18002129, z: -21.9264011}
+      lookAt: {x: 13.4343252, y: .591080189, z: 103.172386}
+      up: {x: 5.30045509e-06, y: .999588728, z: .0286770556}
+      fov: 50
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: 13.4112034, y: 4.18002129, z: -21.9264011}
+        lookAt: {x: 13.4343252, y: .591080189, z: 103.172386}
+        up: {x: 5.30045509e-06, y: .999588728, z: .0286770556}
+        fov: 50
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 1
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Component#1
+    100002: Component#1 1
+    100004: Component#1 2
+    100006: Component#11
+    100008: Component#11 1
+    100010: Component#11 2
+    100012: Component#11 3
+    100014: Component#11 4
+    100016: Component#11 5
+    100018: Component#12
+    100020: Component#12 1
+    100022: Component#12 10
+    100024: Component#12 11
+    100026: Component#12 2
+    100028: Component#12 3
+    100030: Component#12 4
+    100032: Component#12 5
+    100034: Component#12 6
+    100036: Component#12 7
+    100038: Component#12 8
+    100040: Component#12 9
+    100042: Component#13
+    100044: Component#13 1
+    100046: Component#13 2
+    100048: Component#14
+    100050: Component#14 1
+    100052: Component#14 2
+    100054: Component#18
+    100056: Component#2
+    100058: Component#2 1
+    100060: Component#2 2
+    100062: Component#21
+    100064: Component#21 1
+    100066: Component#21 2
+    100068: Component#22
+    100070: Component#22 1
+    100072: Component#22 10
+    100074: Component#22 11
+    100076: Component#22 12
+    100078: Component#22 13
+    100080: Component#22 14
+    100082: Component#22 15
+    100084: Component#22 16
+    100086: Component#22 17
+    100088: Component#22 18
+    100090: Component#22 19
+    100092: Component#22 2
+    100094: Component#22 20
+    100096: Component#22 21
+    100098: Component#22 22
+    100100: Component#22 23
+    100102: Component#22 24
+    100104: Component#22 25
+    100106: Component#22 26
+    100108: Component#22 27
+    100110: Component#22 28
+    100112: Component#22 29
+    100114: Component#22 3
+    100116: Component#22 30
+    100118: Component#22 31
+    100120: Component#22 32
+    100122: Component#22 33
+    100124: Component#22 34
+    100126: Component#22 35
+    100128: Component#22 36
+    100130: Component#22 37
+    100132: Component#22 38
+    100134: Component#22 39
+    100136: Component#22 4
+    100138: Component#22 40
+    100140: Component#22 41
+    100142: Component#22 42
+    100144: Component#22 43
+    100146: Component#22 44
+    100148: Component#22 45
+    100150: Component#22 46
+    100152: Component#22 47
+    100154: Component#22 48
+    100156: Component#22 49
+    100158: Component#22 5
+    100160: Component#22 50
+    100162: Component#22 51
+    100164: Component#22 52
+    100166: Component#22 53
+    100168: Component#22 54
+    100170: Component#22 55
+    100172: Component#22 56
+    100174: Component#22 57
+    100176: Component#22 58
+    100178: Component#22 59
+    100180: Component#22 6
+    100182: Component#22 7
+    100184: Component#22 8
+    100186: Component#22 9
+    100188: Component#26
+    100190: Component#27
+    100192: Component#29
+    100194: Component#3
+    100196: Component#3 1
+    100198: Component#3 2
+    100200: Component#30
+    100202: Component#31
+    100204: Component#32
+    100206: Component#33
+    100208: Component#34
+    100210: Component#35
+    100212: Component#36
+    100214: Component#37
+    100216: Component#38
+    100218: Component#4
+    100220: Component#4 1
+    100222: Component#4 2
+    100224: Component#41
+    100226: Component#41 1
+    100228: Component#43
+    100230: Component#6
+    100232: Component#8
+    100234: Componente#1
+    100236: //RootNode
+    100238: Group 11
+    100240: Group 13
+    100242: Group 15
+    100244: Group 17
+    100246: Group 21
+    100248: Group 25
+    100250: Group 9
+    100252: "Katana (th\xE8me fleur)"
+    100254: Love jar (japanese)
+    400000: Component#1
+    400002: Component#1 1
+    400004: Component#1 2
+    400006: Component#11
+    400008: Component#11 1
+    400010: Component#11 2
+    400012: Component#11 3
+    400014: Component#11 4
+    400016: Component#11 5
+    400018: Component#12
+    400020: Component#12 1
+    400022: Component#12 10
+    400024: Component#12 11
+    400026: Component#12 2
+    400028: Component#12 3
+    400030: Component#12 4
+    400032: Component#12 5
+    400034: Component#12 6
+    400036: Component#12 7
+    400038: Component#12 8
+    400040: Component#12 9
+    400042: Component#13
+    400044: Component#13 1
+    400046: Component#13 2
+    400048: Component#14
+    400050: Component#14 1
+    400052: Component#14 2
+    400054: Component#18
+    400056: Component#2
+    400058: Component#2 1
+    400060: Component#2 2
+    400062: Component#21
+    400064: Component#21 1
+    400066: Component#21 2
+    400068: Component#22
+    400070: Component#22 1
+    400072: Component#22 10
+    400074: Component#22 11
+    400076: Component#22 12
+    400078: Component#22 13
+    400080: Component#22 14
+    400082: Component#22 15
+    400084: Component#22 16
+    400086: Component#22 17
+    400088: Component#22 18
+    400090: Component#22 19
+    400092: Component#22 2
+    400094: Component#22 20
+    400096: Component#22 21
+    400098: Component#22 22
+    400100: Component#22 23
+    400102: Component#22 24
+    400104: Component#22 25
+    400106: Component#22 26
+    400108: Component#22 27
+    400110: Component#22 28
+    400112: Component#22 29
+    400114: Component#22 3
+    400116: Component#22 30
+    400118: Component#22 31
+    400120: Component#22 32
+    400122: Component#22 33
+    400124: Component#22 34
+    400126: Component#22 35
+    400128: Component#22 36
+    400130: Component#22 37
+    400132: Component#22 38
+    400134: Component#22 39
+    400136: Component#22 4
+    400138: Component#22 40
+    400140: Component#22 41
+    400142: Component#22 42
+    400144: Component#22 43
+    400146: Component#22 44
+    400148: Component#22 45
+    400150: Component#22 46
+    400152: Component#22 47
+    400154: Component#22 48
+    400156: Component#22 49
+    400158: Component#22 5
+    400160: Component#22 50
+    400162: Component#22 51
+    400164: Component#22 52
+    400166: Component#22 53
+    400168: Component#22 54
+    400170: Component#22 55
+    400172: Component#22 56
+    400174: Component#22 57
+    400176: Component#22 58
+    400178: Component#22 59
+    400180: Component#22 6
+    400182: Component#22 7
+    400184: Component#22 8
+    400186: Component#22 9
+    400188: Component#26
+    400190: Component#27
+    400192: Component#29
+    400194: Component#3
+    400196: Component#3 1
+    400198: Component#3 2
+    400200: Component#30
+    400202: Component#31
+    400204: Component#32
+    400206: Component#33
+    400208: Component#34
+    400210: Component#35
+    400212: Component#36
+    400214: Component#37
+    400216: Component#38
+    400218: Component#4
+    400220: Component#4 1
+    400222: Component#4 2
+    400224: Component#41
+    400226: Component#41 1
+    400228: Component#43
+    400230: Component#6
+    400232: Component#8
+    400234: Componente#1
+    400236: //RootNode
+    400238: Group 11
+    400240: Group 13
+    400242: Group 15
+    400244: Group 17
+    400246: Group 21
+    400248: Group 25
+    400250: Group 9
+    400252: "Katana (th\xE8me fleur)"
+    400254: Love jar (japanese)
+    2300000: Component#1
+    2300002: Component#1 1
+    2300004: Component#1 2
+    2300006: Component#11
+    2300008: Component#11 1
+    2300010: Component#11 2
+    2300012: Component#11 3
+    2300014: Component#11 4
+    2300016: Component#11 5
+    2300018: Component#12
+    2300020: Component#12 1
+    2300022: Component#12 10
+    2300024: Component#12 11
+    2300026: Component#12 2
+    2300028: Component#12 3
+    2300030: Component#12 4
+    2300032: Component#12 5
+    2300034: Component#12 6
+    2300036: Component#12 7
+    2300038: Component#12 8
+    2300040: Component#12 9
+    2300042: Component#13
+    2300044: Component#13 1
+    2300046: Component#13 2
+    2300048: Component#14
+    2300050: Component#14 1
+    2300052: Component#14 2
+    2300054: Component#18
+    2300056: Component#2
+    2300058: Component#2 1
+    2300060: Component#2 2
+    2300062: Component#21
+    2300064: Component#21 1
+    2300066: Component#21 2
+    2300068: Component#22
+    2300070: Component#22 1
+    2300072: Component#22 10
+    2300074: Component#22 11
+    2300076: Component#22 12
+    2300078: Component#22 13
+    2300080: Component#22 14
+    2300082: Component#22 15
+    2300084: Component#22 16
+    2300086: Component#22 17
+    2300088: Component#22 18
+    2300090: Component#22 19
+    2300092: Component#22 2
+    2300094: Component#22 20
+    2300096: Component#22 21
+    2300098: Component#22 22
+    2300100: Component#22 23
+    2300102: Component#22 24
+    2300104: Component#22 25
+    2300106: Component#22 26
+    2300108: Component#22 27
+    2300110: Component#22 28
+    2300112: Component#22 29
+    2300114: Component#22 3
+    2300116: Component#22 30
+    2300118: Component#22 31
+    2300120: Component#22 32
+    2300122: Component#22 33
+    2300124: Component#22 34
+    2300126: Component#22 35
+    2300128: Component#22 36
+    2300130: Component#22 37
+    2300132: Component#22 38
+    2300134: Component#22 39
+    2300136: Component#22 4
+    2300138: Component#22 40
+    2300140: Component#22 41
+    2300142: Component#22 42
+    2300144: Component#22 43
+    2300146: Component#22 44
+    2300148: Component#22 45
+    2300150: Component#22 46
+    2300152: Component#22 47
+    2300154: Component#22 48
+    2300156: Component#22 49
+    2300158: Component#22 5
+    2300160: Component#22 50
+    2300162: Component#22 51
+    2300164: Component#22 52
+    2300166: Component#22 53
+    2300168: Component#22 54
+    2300170: Component#22 55
+    2300172: Component#22 56
+    2300174: Component#22 57
+    2300176: Component#22 58
+    2300178: Component#22 59
+    2300180: Component#22 6
+    2300182: Component#22 7
+    2300184: Component#22 8
+    2300186: Component#22 9
+    2300188: Component#26
+    2300190: Component#27
+    2300192: Component#29
+    2300194: Component#3
+    2300196: Component#3 1
+    2300198: Component#3 2
+    2300200: Component#30
+    2300202: Component#31
+    2300204: Component#32
+    2300206: Component#33
+    2300208: Component#34
+    2300210: Component#35
+    2300212: Component#36
+    2300214: Component#37
+    2300216: Component#38
+    2300218: Component#4
+    2300220: Component#4 1
+    2300222: Component#4 2
+    2300224: Component#41
+    2300226: Component#41 1
+    2300228: Component#43
+    2300230: Component#6
+    2300232: Component#8
+    2300234: Componente#1
+    2300236: Group 11
+    2300238: Group 13
+    2300240: Group 15
+    2300242: Group 17
+    2300244: Group 21
+    2300246: Group 25
+    2300248: Group 9
+    2300250: "Katana (th\xE8me fleur)"
+    2300252: Love jar (japanese)
+    3300000: Component#1
+    3300002: Component#1 1
+    3300004: Component#1 2
+    3300006: Component#11
+    3300008: Component#11 1
+    3300010: Component#11 2
+    3300012: Component#11 3
+    3300014: Component#11 4
+    3300016: Component#11 5
+    3300018: Component#12
+    3300020: Component#12 1
+    3300022: Component#12 10
+    3300024: Component#12 11
+    3300026: Component#12 2
+    3300028: Component#12 3
+    3300030: Component#12 4
+    3300032: Component#12 5
+    3300034: Component#12 6
+    3300036: Component#12 7
+    3300038: Component#12 8
+    3300040: Component#12 9
+    3300042: Component#13
+    3300044: Component#13 1
+    3300046: Component#13 2
+    3300048: Component#14
+    3300050: Component#14 1
+    3300052: Component#14 2
+    3300054: Component#18
+    3300056: Component#2
+    3300058: Component#2 1
+    3300060: Component#2 2
+    3300062: Component#21
+    3300064: Component#21 1
+    3300066: Component#21 2
+    3300068: Component#22
+    3300070: Component#22 1
+    3300072: Component#22 10
+    3300074: Component#22 11
+    3300076: Component#22 12
+    3300078: Component#22 13
+    3300080: Component#22 14
+    3300082: Component#22 15
+    3300084: Component#22 16
+    3300086: Component#22 17
+    3300088: Component#22 18
+    3300090: Component#22 19
+    3300092: Component#22 2
+    3300094: Component#22 20
+    3300096: Component#22 21
+    3300098: Component#22 22
+    3300100: Component#22 23
+    3300102: Component#22 24
+    3300104: Component#22 25
+    3300106: Component#22 26
+    3300108: Component#22 27
+    3300110: Component#22 28
+    3300112: Component#22 29
+    3300114: Component#22 3
+    3300116: Component#22 30
+    3300118: Component#22 31
+    3300120: Component#22 32
+    3300122: Component#22 33
+    3300124: Component#22 34
+    3300126: Component#22 35
+    3300128: Component#22 36
+    3300130: Component#22 37
+    3300132: Component#22 38
+    3300134: Component#22 39
+    3300136: Component#22 4
+    3300138: Component#22 40
+    3300140: Component#22 41
+    3300142: Component#22 42
+    3300144: Component#22 43
+    3300146: Component#22 44
+    3300148: Component#22 45
+    3300150: Component#22 46
+    3300152: Component#22 47
+    3300154: Component#22 48
+    3300156: Component#22 49
+    3300158: Component#22 5
+    3300160: Component#22 50
+    3300162: Component#22 51
+    3300164: Component#22 52
+    3300166: Component#22 53
+    3300168: Component#22 54
+    3300170: Component#22 55
+    3300172: Component#22 56
+    3300174: Component#22 57
+    3300176: Component#22 58
+    3300178: Component#22 59
+    3300180: Component#22 6
+    3300182: Component#22 7
+    3300184: Component#22 8
+    3300186: Component#22 9
+    3300188: Component#26
+    3300190: Component#27
+    3300192: Component#29
+    3300194: Component#3
+    3300196: Component#3 1
+    3300198: Component#3 2
+    3300200: Component#30
+    3300202: Component#31
+    3300204: Component#32
+    3300206: Component#33
+    3300208: Component#34
+    3300210: Component#35
+    3300212: Component#36
+    3300214: Component#37
+    3300216: Component#38
+    3300218: Component#4
+    3300220: Component#4 1
+    3300222: Component#4 2
+    3300224: Component#41
+    3300226: Component#41 1
+    3300228: Component#43
+    3300230: Component#6
+    3300232: Component#8
+    3300234: Componente#1
+    3300236: Group 11
+    3300238: Group 13
+    3300240: Group 15
+    3300242: Group 17
+    3300244: Group 21
+    3300246: Group 25
+    3300248: Group 9
+    3300250: "Katana (th\xE8me fleur)"
+    3300252: Love jar (japanese)
+    4300000: Mesh Component#18
+    4300002: Mesh Component#27
+    4300004: Mesh Love jar (japanese)
+    4300006: "Mesh Katana (th\xE8me fleur)"
+    4300008: Mesh Group 9
+    4300010: Mesh Group 11
+    4300012: Mesh Group 15
+    4300014: Mesh Group 17
+    4300016: Mesh Component#41
+    4300018: Mesh Group 21
+    4300020: Mesh Component#26
+    4300022: Mesh Component#43
+    4300024: Mesh Componente#1
+    4300026: Mesh Component#22
+    4300028: Mesh Component#21
+    4300030: Mesh Component#12
+    4300032: Mesh Component#11
+    4300034: Mesh Component#2
+    4300036: Mesh Component#14
+    4300038: Mesh Component#13
+    4300040: Mesh Component#1
+    4300042: Mesh Component#3
+    4300044: Mesh Component#4
+    4300046: Mesh Component#30
+    4300048: Mesh Component#29
+    4300050: Mesh Component#36
+    4300052: Mesh Component#6
+    4300054: Mesh Component#31
+    4300056: Mesh Component#8
+    4300058: Mesh Component#32
+    4300060: Mesh Component#38
+    4300062: Mesh Component#35
+    4300064: Mesh Component#37
+    4300066: Mesh Component#33
+    4300068: Mesh Component#34
+    6400000: Component#1
+    6400002: Component#1 1
+    6400004: Component#1 2
+    6400006: Component#11
+    6400008: Component#11 1
+    6400010: Component#11 2
+    6400012: Component#11 3
+    6400014: Component#11 4
+    6400016: Component#11 5
+    6400018: Component#12
+    6400020: Component#12 1
+    6400022: Component#12 10
+    6400024: Component#12 11
+    6400026: Component#12 2
+    6400028: Component#12 3
+    6400030: Component#12 4
+    6400032: Component#12 5
+    6400034: Component#12 6
+    6400036: Component#12 7
+    6400038: Component#12 8
+    6400040: Component#12 9
+    6400042: Component#13
+    6400044: Component#13 1
+    6400046: Component#13 2
+    6400048: Component#14
+    6400050: Component#14 1
+    6400052: Component#14 2
+    6400054: Component#18
+    6400056: Component#2
+    6400058: Component#2 1
+    6400060: Component#2 2
+    6400062: Component#21
+    6400064: Component#21 1
+    6400066: Component#21 2
+    6400068: Component#22
+    6400070: Component#22 1
+    6400072: Component#22 10
+    6400074: Component#22 11
+    6400076: Component#22 12
+    6400078: Component#22 13
+    6400080: Component#22 14
+    6400082: Component#22 15
+    6400084: Component#22 16
+    6400086: Component#22 17
+    6400088: Component#22 18
+    6400090: Component#22 19
+    6400092: Component#22 2
+    6400094: Component#22 20
+    6400096: Component#22 21
+    6400098: Component#22 22
+    6400100: Component#22 23
+    6400102: Component#22 24
+    6400104: Component#22 25
+    6400106: Component#22 26
+    6400108: Component#22 27
+    6400110: Component#22 28
+    6400112: Component#22 29
+    6400114: Component#22 3
+    6400116: Component#22 30
+    6400118: Component#22 31
+    6400120: Component#22 32
+    6400122: Component#22 33
+    6400124: Component#22 34
+    6400126: Component#22 35
+    6400128: Component#22 36
+    6400130: Component#22 37
+    6400132: Component#22 38
+    6400134: Component#22 39
+    6400136: Component#22 4
+    6400138: Component#22 40
+    6400140: Component#22 41
+    6400142: Component#22 42
+    6400144: Component#22 43
+    6400146: Component#22 44
+    6400148: Component#22 45
+    6400150: Component#22 46
+    6400152: Component#22 47
+    6400154: Component#22 48
+    6400156: Component#22 49
+    6400158: Component#22 5
+    6400160: Component#22 50
+    6400162: Component#22 51
+    6400164: Component#22 52
+    6400166: Component#22 53
+    6400168: Component#22 54
+    6400170: Component#22 55
+    6400172: Component#22 56
+    6400174: Component#22 57
+    6400176: Component#22 58
+    6400178: Component#22 59
+    6400180: Component#22 6
+    6400182: Component#22 7
+    6400184: Component#22 8
+    6400186: Component#22 9
+    6400188: Component#26
+    6400190: Component#27
+    6400192: Component#29
+    6400194: Component#3
+    6400196: Component#3 1
+    6400198: Component#3 2
+    6400200: Component#30
+    6400202: Component#31
+    6400204: Component#32
+    6400206: Component#33
+    6400208: Component#34
+    6400210: Component#35
+    6400212: Component#36
+    6400214: Component#37
+    6400216: Component#38
+    6400218: Component#4
+    6400220: Component#4 1
+    6400222: Component#4 2
+    6400224: Component#41
+    6400226: Component#41 1
+    6400228: Component#43
+    6400230: Component#6
+    6400232: Component#8
+    6400234: Componente#1
+    6400236: Group 11
+    6400238: Group 13
+    6400240: Group 15
+    6400242: Group 17
+    6400244: Group 21
+    6400246: Group 25
+    6400248: Group 9
+    6400250: "Katana (th\xE8me fleur)"
+    6400252: Love jar (japanese)
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .100000001
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

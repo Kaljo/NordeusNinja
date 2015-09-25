@@ -1,0 +1,172 @@
+Initialize engine version: 5.2.1f1 (44735ea161b3)
+[VRDevice] Successfully created device oculus.
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 760 (ID=0x1187)
+    Vendor:   NVIDIA
+    VRAM:     1986 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Nordeus\Desktop\test\RUISunity\Avax_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Nordeus\Desktop\test\RUISunity\Avax_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Nordeus\Desktop\test\RUISunity\Avax_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Nordeus\Desktop\test\RUISunity\Avax_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Nordeus\Desktop\test\RUISunity\Avax_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Nordeus\Desktop\test\RUISunity\Avax_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Nordeus\Desktop\test\RUISunity\Avax_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\Nordeus\Desktop\test\RUISunity\Avax_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Nordeus\Desktop\test\RUISunity\Avax_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Nordeus\Desktop\test\RUISunity\Avax_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\Nordeus\Desktop\test\RUISunity\Avax_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Nordeus\Desktop\test\RUISunity\Avax_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Nordeus\Desktop\test\RUISunity\Avax_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Nordeus\Desktop\test\RUISunity\Avax_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Nordeus\Desktop\test\RUISunity\Avax_Data\Managed\OpenNI.Net.dll (this message is harmless)
+Loading C:\Users\Nordeus\Desktop\test\RUISunity\Avax_Data\Managed\OpenNI.Net.dll into Unity Child Domain
+Platform assembly: C:\Users\Nordeus\Desktop\test\RUISunity\Avax_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.144 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1200 59Hz; virtual: 1920x1200 at 0,0
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Nordeus\Desktop\test\RUISunity\Avax_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Nordeus\Desktop\test\RUISunity\Avax_Data\Managed\System.Xml.dll (this message is harmless)
+09/24/15 12:11:05: [CAPI] LibOVR module is located at C:\WINDOWS\SYSTEM32\LibOVRRT64_0_7.dll
+
+ 
+(Filename:  Line: 46)
+
+XML validation finished for inputConfig.xml!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Kinect is disabled from RUISInputManager.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+PS Move is disabled from RUISInputManager.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Razer Hydra is disabled from RUISInputManager. Disabling object SixenseInput that has the SixenseInput script.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Disabling PS Move wand: PSMoveWand
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Disabling Razer Hydra wand: RazerHydraWand
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Found the best head tracker with regard to enabled devices in RUISInputManager! Using OculusDK2HeadTracker for tracking head position. This choice was made using a pre-selected list of head trackers.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+No RUISDisplay attached to the RUISHeadTrackerAssigner script!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+XML validation finished for calibration.xml!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+XML validation finished for defaultDisplay.xml!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Rotation tracker's Input Transform is none, you need to set it in Unity inspector!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Setting up 3 worker threads for Enlighten.
+  Thread -> id: 11a8 -> priority: 1 
+  Thread -> id: 1078 -> priority: 1 
+  Thread -> id: 18c -> priority: 1 
+Crash!!!
+SymInit: Symbol-SearchPath: '.;C:\Users\Nordeus\Desktop\test\RUISunity;C:\Users\Nordeus\Desktop\test\RUISunity;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'Nordeus'
+OS-Version: 6.3.9600 () 0x100-0x1
+C:\Users\Nordeus\Desktop\test\RUISunity\Avax.exe:Avax.exe (00007FF6C0160000), size: 20275200 (result: 0), SymType: '-exported-', PDB: 'C:\Users\Nordeus\Desktop\test\RUISunity\Avax.exe', fileVersion: 5.2.1.29534
+C:\WINDOWS\SYSTEM32\ntdll.dll:ntdll.dll (00007FF8458A0000), size: 1753088 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\ntdll.dll', fileVersion: 6.3.9600.18007
+C:\WINDOWS\system32\KERNEL32.DLL:KERNEL32.DLL (00007FF8456A0000), size: 1302528 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\KERNEL32.DLL', fileVersion: 6.3.9600.17415
+C:\WINDOWS\system32\KERNELBASE.dll:KERNELBASE.dll (00007FF842B80000), size: 1134592 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\KERNELBASE.dll', fileVersion: 6.3.9600.18007
+C:\WINDOWS\SYSTEM32\HID.DLL:HID.DLL (00007FF841BC0000), size: 53248 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\HID.DLL', fileVersion: 6.3.9600.17415
+C:\WINDOWS\system32\WS2_32.dll:WS2_32.dll (00007FF844600000), size: 368640 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\WS2_32.dll', fileVersion: 6.3.9600.17415
+C:\WINDOWS\system32\USER32.dll:USER32.dll (00007FF8446C0000), size: 1536000 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\USER32.dll', fileVersion: 6.3.9600.17415
+C:\WINDOWS\SYSTEM32\VERSION.dll:VERSION.dll (00007FF83F8C0000), size: 40960 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\VERSION.dll', fileVersion: 6.3.9600.17415
+C:\WINDOWS\system32\ole32.dll:ole32.dll (00007FF844BE0000), size: 1654784 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\ole32.dll', fileVersion: 6.3.9600.17905
+C:\WINDOWS\system32\SHLWAPI.dll:SHLWAPI.dll (00007FF844660000), size: 344064 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\SHLWAPI.dll', fileVersion: 6.3.9600.17415
+C:\WINDOWS\system32\ADVAPI32.dll:ADVAPI32.dll (00007FF8451A0000), size: 696320 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\ADVAPI32.dll', fileVersion: 6.3.9600.18007
+C:\WINDOWS\system32\GDI32.dll:GDI32.dll (00007FF844450000), size: 1372160 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\GDI32.dll', fileVersion: 6.3.9600.17925
+C:\WINDOWS\system32\SHELL32.dll:SHELL32.dll (00007FF842F30000), size: 22122496 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\SHELL32.dll', fileVersion: 6.3.9600.17824
+C:\WINDOWS\SYSTEM32\OPENGL32.dll:OPENGL32.dll (00007FF82F320000), size: 1224704 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\OPENGL32.dll', fileVersion: 6.3.9600.17415
+C:\WINDOWS\SYSTEM32\WINMM.dll:WINMM.dll (00007FF83F890000), size: 139264 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\WINMM.dll', fileVersion: 6.3.9600.17415
+C:\WINDOWS\system32\OLEAUT32.dll:OLEAUT32.dll (00007FF845270000), size: 790528 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\OLEAUT32.dll', fileVersion: 6.3.9600.17560
+C:\WINDOWS\SYSTEM32\MSACM32.dll:MSACM32.dll (00007FF83F270000), size: 114688 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\MSACM32.dll', fileVersion: 6.3.9600.17415
+C:\WINDOWS\system32\IMM32.dll:IMM32.dll (00007FF844FE0000), size: 221184 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\IMM32.dll', fileVersion: 6.3.9600.17415
+C:\WINDOWS\SYSTEM32\DNSAPI.dll:DNSAPI.dll (00007FF842010000), size: 671744 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\DNSAPI.dll', fileVersion: 6.3.9600.17481
+C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL:IPHLPAPI.DLL (00007FF83DA20000), size: 172032 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL', fileVersion: 6.3.9600.17415
+C:\WINDOWS\SYSTEM32\WINHTTP.dll:WINHTTP.dll (00007FF83B380000), size: 823296 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\WINHTTP.dll', fileVersion: 6.3.9600.17415
+C:\WINDOWS\system32\msvcrt.dll:msvcrt.dll (00007FF844D80000), size: 696320 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\msvcrt.dll', fileVersion: 7.0.9600.17415
+C:\WINDOWS\system32\NSI.dll:NSI.dll (00007FF8455D0000), size: 36864 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\NSI.dll', fileVersion: 6.3.9600.17415
+C:\WINDOWS\system32\RPCRT4.dll:RPCRT4.dll (00007FF8448B0000), size: 1314816 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\RPCRT4.dll', fileVersion: 6.3.9600.17919
+C:\WINDOWS\SYSTEM32\combase.dll:combase.dll (00007FF845340000), size: 2166784 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\combase.dll', fileVersion: 6.3.9600.17415
+C:\WINDOWS\SYSTEM32\sechost.dll:sechost.dll (00007FF8445A0000), size: 364544 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\sechost.dll', fileVersion: 6.3.9600.17734
+C:\WINDOWS\SYSTEM32\GLU32.dll:GLU32.dll (00007FF82F2F0000), size: 188416 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\GLU32.dll', fileVersion: 6.3.9600.17415
+C:\WINDOWS\SYSTEM32\DDRAW.dll:DDRAW.dll (00007FF82F1F0000), size: 1015808 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\DDRAW.dll', fileVersion: 6.3.9600.17415
+C:\WINDOWS\SYSTEM32\WINMMBASE.dll:WINMMBASE.dll (00007FF83F850000), size: 172032 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\WINMMBASE.dll', fileVersion: 6.3.9600.17415
+C:\WINDOWS\system32\MSCTF.dll:MSCTF.dll (00007FF845020000), size: 1384448 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\MSCTF.dll', fileVersion: 6.3.9600.17706
+C:\WINDOWS\SYSTEM32\WINNSI.DLL:WINNSI.DLL (00007FF83D990000), size: 40960 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\WINNSI.DLL', fileVersion: 6.3.9600.17415
+C:\WINDOWS\SYSTEM32\DCIMAN32.dll:DCIMAN32.dll (00007FF839C70000), size: 36864 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\DCIMAN32.dll', fileVersion: 6.3.9600.17415
+C:\WINDOWS\SYSTEM32\cfgmgr32.dll:cfgmgr32.dll (00007FF842AD0000), size: 323584 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\cfgmgr32.dll', fileVersion: 6.3.9600.17415
+C:\WINDOWS\SYSTEM32\DEVOBJ.dll:DEVOBJ.dll (00007FF8417F0000), size: 163840 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\DEVOBJ.dll', fileVersion: 6.3.9600.17415
+C:\Users\Nordeus\Desktop\test\RUISunity\Avax_Data\Plugins\OculusPlugin.DLL:OculusPlugin.DLL (00007FF82EBA0000), size: 761856 (result: 0), SymType: '-exported-', PDB: 'C:\Users\Nordeus\Desktop\test\RUISunity\Avax_Data\Plugins\OculusPlugin.DLL'
+C:\WINDOWS\SYSTEM32\dxgi.dll:dxgi.dll (00007FF83ED00000), size: 552960 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\dxgi.dll', fileVersion: 6.3.9600.17415
+C:\WINDOWS\system32\SETUPAPI.dll:SETUPAPI.dll (00007FF844A00000), size: 1941504 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\SETUPAPI.dll', fileVersion: 6.3.9600.17415
+C:\WINDOWS\SYSTEM32\dbghelp.dll:dbghelp.dll (00007FF837F70000), size: 1609728 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\dbghelp.dll', fileVersion: 6.3.9600.17787
+C:\WINDOWS\SYSTEM32\d3d9.dll:d3d9.dll (00007FF825A90000), size: 2232320 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\d3d9.dll', fileVersion: 6.3.9600.17415
+C:\WINDOWS\SYSTEM32\dwmapi.dll:dwmapi.dll (00007FF840D50000), size: 135168 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\dwmapi.dll', fileVersion: 6.3.9600.17415
+C:\WINDOWS\SYSTEM32\d3d11.dll:d3d11.dll (00007FF840060000), size: 2306048 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\d3d11.dll', fileVersion: 6.3.9600.17415
+C:\WINDOWS\SYSTEM32\d3d10core.dll:d3d10core.dll (00007FF836B00000), size: 364544 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\d3d10core.dll', fileVersion: 6.3.9600.17415
+C:\WINDOWS\SYSTEM32\d3d10.dll:d3d10.dll (00007FF82EE00000), size: 1277952 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\d3d10.dll', fileVersion: 6.3.9600.17415
+C:\WINDOWS\SYSTEM32\OVRDisplayRT64.dll:OVRDisplayRT64.dll (00007FF839A10000), size: 110592 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\OVRDisplayRT64.dll', fileVersion: 1.2.7.0
+C:\WINDOWS\SYSTEM32\MSVCP120.dll:MSVCP120.dll (00007FF82ED50000), size: 679936 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\MSVCP120.dll', fileVersion: 12.0.21005.1
+C:\WINDOWS\SYSTEM32\MSVCR120.dll:MSVCR120.dll (00007FF82EC60000), size: 978944 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\MSVCR120.dll', fileVersion: 12.0.21005.1
+C:\WINDOWS\SYSTEM32\shcore.dll:shcore.dll (00007FF8414C0000), size: 729088 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\shcore.dll', fileVersion: 6.3.9600.17666
+C:\Users\Nordeus\Desktop\test\RUISunity\Avax_Data\Mono\mono.dll:mono.dll (00007FF82C9E0000), size: 2990080 (result: 0), SymType: '-exported-', PDB: 'C:\Users\Nordeus\Desktop\test\RUISunity\Avax_Data\Mono\mono.dll', fileVersion: 1.0.0.1
+C:\WINDOWS\system32\PSAPI.DLL:PSAPI.DLL (00007FF844840000), size: 28672 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\PSAPI.DLL', fileVersion: 6.3.9600.17415
+C:\WINDOWS\SYSTEM32\MSWSOCK.dll:MSWSOCK.dll (00007FF842210000), size: 364544 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\MSWSOCK.dll', fileVersion: 6.3.9600.17415
+C:\WINDOWS\SYSTEM32\kernel.appcore.dll:kernel.appcore.dll (00007FF841840000), size: 45056 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\kernel.appcore.dll', fileVersion: 6.3.9600.17415
+C:\WINDOWS\SYSTEM32\CRYPTBASE.dll:CRYPTBASE.dll (00007FF842940000), size: 45056 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\CRYPTBASE.dll', fileVersion: 6.3.9600.17415
+C:\WINDOWS\SYSTEM32\bcryptPrimitives.dll:bcryptPrimitives.dll (00007FF8428D0000), size: 405504 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\bcryptPrimitives.dll', fileVersion: 6.3.9600.17415
+C:\WINDOWS\system32\uxtheme.dll:uxtheme.dll (00007FF841670000), size: 1216512 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\uxtheme.dll', fileVersion: 6.3.9600.17415
+C:\Users\Nordeus\Desktop\test\RUISunity\Avax_Data\Plugins\OVRPlugin.dll:OVRPlugin.dll (00007FF8361D0000), size: 376832 (result: 0), SymType: '-exported-', PDB: 'C:\Users\Nordeus\Desktop\test\RUISunity\Avax_Data\Plugins\OVRPlugin.dll'
+C:\WINDOWS\SYSTEM32\LibOVRRT64_0_7.dll:LibOVRRT64_0_7.dll (00007FF82F0D0000), size: 1126400 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\LibOVRRT64_0_7.dll', fileVersion: 7.0.0.26297
+C:\WINDOWS\SYSTEM32\OVRDisplay64.dll:OVRDisplay64.dll (00007FF836300000), size: 94208 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\OVRDisplay64.dll', fileVersion: 1.2.7.0
+C:\WINDOWS\SYSTEM32\nvwgf2umx.dll:nvwgf2umx.dll (00007FF83DC30000), size: 17575936 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\nvwgf2umx.dll', fileVersion: 10.18.13.5382
+C:\WINDOWS\SYSTEM32\bcrypt.dll:bcrypt.dll (00007FF842520000), size: 155648 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\bcrypt.dll', fileVersion: 6.3.9600.17415
+C:\WINDOWS\SYSTEM32\MMDevAPI.DLL:MMDevAPI.DLL (00007FF83F430000), size: 458752 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\MMDevAPI.DLL', fileVersion: 6.3.9600.17415
+C:\WINDOWS\SYSTEM32\wdmaud.drv:wdmaud.drv (00007FF83AD00000), size: 253952 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\wdmaud.drv', fileVersion: 6.3.9600.17415
+C:\WINDOWS\SYSTEM32\ksuser.dll:ksuser.dll (00007FF83FF60000), size: 32768 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\ksuser.dll', fileVersion: 6.3.9600.17415
+C:\WINDOWS\SYSTEM32\AVRT.dll:AVRT.dll (00007FF8405A0000), size: 49152 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\AVRT.dll', fileVersion: 6.3.9600.17415
+C:\WINDOWS\SYSTEM32\AUDIOSES.DLL:AUDIOSES.DLL (00007FF8344F0000), size: 516096 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\AUDIOSES.DLL', fileVersion: 6.3.9600.17415
+C:\WINDOWS\SYSTEM32\powrprof.dll:powrprof.dll (00007FF8426A0000), size: 286720 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\powrprof.dll', fileVersion: 6.3.9600.17415
+C:\WINDOWS\SYSTEM32\msacm32.drv:msacm32.drv (00007FF83F210000), size: 45056 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\msacm32.drv', fileVersion: 6.3.9600.17415
+C:\WINDOWS\SYSTEM32\midimap.dll:midimap.dll (00007FF83ACF0000), size: 40960 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\midimap.dll', fileVersion: 6.3.9600.17415
+C:\WINDOWS\SYSTEM32\dsound.dll:dsound.dll (00007FF8358E0000), size: 643072 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\dsound.dll', fileVersion: 6.3.9600.17415
+C:\WINDOWS\SYSTEM32\clbcatq.dll:clbcatq.dll (00007FF8457E0000), size: 745472 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\clbcatq.dll', fileVersion: 2001.12.10530.17415
+C:\WINDOWS\SYSTEM32\xinput1_3.dll:xinput1_3.dll (0000000000400000), size: 122880 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\xinput1_3.dll', fileVersion: 9.18.944.0
+C:\Users\Nordeus\Desktop\test\RUISunity\Avax_Data\Plugins\KinectUnityAddin.dll:KinectUnityAddin.dll (00007FF8361A0000), size: 180224 (result: 0), SymType: '-exported-', PDB: 'C:\Users\Nordeus\Desktop\test\RUISunity\Avax_Data\Plugins\KinectUnityAddin.dll', fileVersion: 2.0.1410.16000
+C:\WINDOWS\SYSTEM32\Kinect20.dll:Kinect20.dll (00007FF836230000), size: 761856 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\Kinect20.dll', fileVersion: 2.0.1410.18000
+C:\WINDOWS\SYSTEM32\MSVCP110.dll:MSVCP110.dll (00007FF838930000), size: 684032 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\MSVCP110.dll', fileVersion: 11.0.51106.1
+C:\WINDOWS\SYSTEM32\MSVCR110.dll:MSVCR110.dll (00007FF83C7E0000), size: 868352 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\MSVCR110.dll', fileVersion: 11.0.51106.1
+C:\WINDOWS\SYSTEM32\MFPlat.DLL:MFPlat.DLL (00007FF839860000), size: 962560 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\MFPlat.DLL', fileVersion: 12.0.9600.17489
+C:\WINDOWS\SYSTEM32\RTWorkQ.DLL:RTWorkQ.DLL (00007FF838CD0000), size: 159744 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\RTWorkQ.DLL', fileVersion: 12.0.9600.17415
+C:\WINDOWS\SYSTEM32\CRYPTSP.dll:CRYPTSP.dll (00007FF842470000), size: 131072 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\CRYPTSP.dll', fileVersion: 6.3.9600.17415
+C:\WINDOWS\system32\rsaenh.dll:rsaenh.dll (00007FF841E90000), size: 221184 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\rsaenh.dll', fileVersion: 6.3.9600.17415
+C:\Users\Nordeus\Desktop\test\RUISunity\Avax_Data\Plugins\myo.dll:myo.dll (00007FF82E560000), size: 1175552 (result: 0), SymType: '-exported-', PDB: 'C:\Users\Nordeus\Desktop\test\RUISunity\Avax_Data\Plugins\myo.dll'
+C:\WINDOWS\SYSTEM32\SspiCli.dll:SspiCli.dll (00007FF8428A0000), size: 188416 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\SspiCli.dll', fileVersion: 6.3.9600.17415
+
+========== OUTPUTING STACK TRACE ==================
+

@@ -1,0 +1,41 @@
+# 
+# Wavefront material file
+# Converted by the DEEP Exploration  2.1.10.1214
+# Right Hemisphere, LTD
+# http://www.righthemisphere.com/
+# 
+
+newmtl Default
+Ka 0 0 0
+Kd 0.372549 0.372549 0.372549
+Ks 0.0968627 0.0968627 0.0968627
+illum 2
+Ns 4
+
+newmtl Default_2
+Ka 0 0 0
+Kd 0.294118 0.294118 0.294118
+Ks 0.0764706 0.0764706 0.0764706
+illum 2
+Ns 4
+
+newmtl skin
+Ka 0 0 0
+Kd 0.752941 0.752941 0.752941
+Ks 0 0 0
+illum 2
+Ns 8
+
+newmtl eye_inner
+Ka 0 0 0
+Kd 0.839216 0.737255 0.662745
+Ks 0 0 0
+illum 2
+Ns 8
+
+newmtl eyes
+Ka 0 0 0
+Kd 0 0 0
+Ks 0 0 0
+illum 2
+Ns 8
