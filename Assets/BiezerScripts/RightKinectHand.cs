@@ -12,7 +12,7 @@ public class RightKinectHand : MonoBehaviour {
 
 	public GameObject myo = null;
 	private ThalmicMyo tMyo;
-	
+	private string myoStatus = "Hand relaxed";
 	//private static Pose lastPose = Pose.Unknown;
 	
 	public GameObject sphere;
@@ -40,8 +40,10 @@ public class RightKinectHand : MonoBehaviour {
 		if (tMyo.pose == Pose.Fist) {
 			thrown = true;
 			Debug.Log(thrown);
+			myoStatus = "Fist";
 			//pathsColliders.SetActive(false);
 		}else{
+			myoStatus = "Hand relaxed";
 			if(thrown)
 			{
 				float dis=Vector3.Distance(hand.transform.TransformPoint(Vector3.zero), foreArm.transform.TransformPoint(Vector3.zero));
@@ -92,4 +94,9 @@ public class RightKinectHand : MonoBehaviour {
 		
 		Destroy (shur, 5);
 	}
+
+	void OnGUI(){
+		GUI.Box (new Rect (20, 20, 100, 25), myoStatus);
+	}
+
 }
